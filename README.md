@@ -42,7 +42,7 @@
 * Время инференса модели при обработке одного изображения: 13,39 мс (0,013 с)
 
 
-| Методы   | Ссылка на решение | Результат %| 
-|----------|-------------------|-----------|
-|          | [ноутбук](https://colab.research.google.com/drive/1GEqhrpSFc_z5BXQPv6ZgoVvpgUcPiNKL#scrollTo=YA1mnnp7ipX_) | 0,67 |
-|          | [ноутбук](https://colab.research.google.com/drive/1BMN4zeCy2Hbp66rpzKiw8-UZUfQiMv0f?usp=sharing) | 0,87 |
+| Ссылка на решение | Результат %| 
+|-------------------|-----------|
+| [ноутбук](https://colab.research.google.com/drive/1GEqhrpSFc_z5BXQPv6ZgoVvpgUcPiNKL#scrollTo=YA1mnnp7ipX_) | 0,672 |
+| [ноутбук](https://colab.research.google.com/drive/1BMN4zeCy2Hbp66rpzKiw8-UZUfQiMv0f?usp=sharing) | 0,935 |
